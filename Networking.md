@@ -19,3 +19,5 @@ Below the network layer, we have the **data link layer (Layer 2)**, responsible 
 Finally, we reach the **physical layer (Layer 1)**, consisting of the actual physical infrastructure like cables and connectors. It provides the means for transmitting data in the form of electrical or light signals.
 
 This intricate layering and interplay of protocols and technologies enable the seamless sharing of over 2.5 quintillion bytes of data across the world every single day.
+
+[Short video on Networking](https://youtu.be/keeqnciDVOo)
