@@ -1,0 +1,6 @@
+
+1. RAM (Random Access Memory): RAM is a type of computer memory that is used to store data and machine code currently being used or processed by a computer's CPU. It's volatile memory, meaning it loses its contents when the computer is powered off. RAM is much faster to read from and write to than other types of storage like hard drives or SSDs, but it's also more expensive and has lower capacity.
+
+2. ROM (Read-Only Memory): ROM is a type of non-volatile memory that is used primarily in devices to store firmware, which is software that is closely tied to hardware and is necessary for the device to operate properly. Unlike RAM, ROM retains its contents even when the power is turned off. It's called "read-only" because the data stored in ROM cannot be easily modified or overwritten.
+
+3. HDD (Hard Disk Drive) / SSD (Solid State Drive): Both HDDs and SSDs are types of storage devices used in computers and other electronic devices to store data persistently. HDDs use spinning magnetic disks and read/write heads to access data, while SSDs use flash memory chips. SSDs are generally faster, more durable, and more energy-efficient than HDDs, but they tend to be more expensive per gigabyte of storage.
